@@ -2,18 +2,12 @@
 
 **Build smarter. Ship faster. Stay ahead.**
 
-I’m a software engineer with 15+ years of experience. I share practical lessons and clear analysis on:
+Practical software engineering tutorials and lessons covering:
 
-- Java and Spring
 - Software architecture and backend engineering
-- AI engineering, tools, and developer workflows
-- Technology news explained with context
-
-English first, with concise Arabic summaries.
-
-## بالعربية
-
-خبرة عملية لأكثر من 15 عامًا في هندسة البرمجيات. أشارك دروسًا عملية في Java وSpring، والمعمارية البرمجية، وهندسة الذكاء الاصطناعي وسير عمل المطورين، مع ملخصات عربية مختصرة.
+- Java and Spring
+- AI engineering and developer workflows
+- Clear technology updates and analysis
 
 ## Follow Progmaster
 
