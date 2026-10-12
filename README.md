@@ -1,16 +1,23 @@
-## Hi there 👋
+# Progmaster
 
-<!--
-**progmaster-dev/progmaster-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Build smarter. Ship faster. Stay ahead.**
 
-Here are some ideas to get you started:
+I’m a software engineer with 15+ years of experience. I share practical lessons and clear analysis on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java and Spring
+- Software architecture and backend engineering
+- AI engineering, tools, and developer workflows
+- Technology news explained with context
+
+English first, with concise Arabic summaries.
+
+## بالعربية
+
+خبرة عملية لأكثر من 15 عامًا في هندسة البرمجيات. أشارك دروسًا عملية في Java وSpring، والمعمارية البرمجية، وهندسة الذكاء الاصطناعي وسير عمل المطورين، مع ملخصات عربية مختصرة.
+
+## Follow Progmaster
+
+- [YouTube](https://www.youtube.com/@progmaster-dev)
+- [Instagram](https://www.instagram.com/progmaster.dev/)
+- [X](https://x.com/progmaster_dev)
+- [Threads](https://www.threads.com/@progmaster.dev)
